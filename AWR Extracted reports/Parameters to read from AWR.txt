@@ -1,0 +1,5 @@
+RO-Multiple Object Reuse           - Enqueue Activity                                           - Av Wt Time(ms)
+SQL AREA STATS                      - Library Cache Activity                                 - Pin Requests
+SQL*Net message from dblink   - Foreground Wait Events                            - Waits
+User I/O                                      - Wait Classes by Total Wait Time              - Total Wait Time (sec)
+physical writes from cache           - Other Instance Activity Stats                    - total
